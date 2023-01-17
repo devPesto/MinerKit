@@ -8,7 +8,7 @@ To install this plugin, simply drag and drop this plugin into your `plugins` dir
 To enable the effects, a player must equip a full set of Iron armor. Upon equipping a complete set, the player is given the following effects until the set is removed:
 
 - Haste II
-- Nightvision I
+- Night Vision I
 - Fire Resistance I
 
 ### Building
